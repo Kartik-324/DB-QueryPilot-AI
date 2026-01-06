@@ -74,15 +74,18 @@ Before running the project, make sure you have:
 ```bash
 git clone https://github.com/Kartik-324/DB-QueryPilot-AI.git
 cd DB-QueryPilot-AI
+
 2️⃣ Create Virtual Environment
 bash
 Copy code
 python -m venv venv
 venv\Scripts\activate
+
 3️⃣ Install Dependencies
 bash
 Copy code
 pip install -r requirements.txt
+
 4️⃣ Environment Variables
 Create a .env file in the root directory:
 
@@ -105,9 +108,11 @@ OR (if using FastAPI / Streamlit):
 bash
 Copy code
 uvicorn main:app --reload
+
 📁 Project Structure
 pgsql
 Copy code
+
 DB-QueryPilot-AI/
 │
 ├── main.py               # Application entry point
@@ -137,6 +142,7 @@ Review & execute query
 
 Get results instantly
 
+
 🛠️ Tech Stack
 Python
 
@@ -147,6 +153,7 @@ SQLAlchemy
 MySQL / PostgreSQL / SQLite
 
 FastAPI / Streamlit (if applicable)
+
 
 🐛 Troubleshooting
 Invalid SQL generated → Check schema & table names
