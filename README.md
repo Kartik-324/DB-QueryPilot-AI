@@ -5,6 +5,21 @@ It bridges the gap between non-technical users and databases by converting plain
 
 The system helps developers, analysts, and beginners quickly explore data, understand schemas, and retrieve insights without deep SQL knowledge.
 
+
+
+![DB QueryPilot AI – Home screen with welcome and navigation](https://github.com/Kartik-324/DB-QueryPilot-AI/blob/8dae629a28dd1bce59bec257b9c654b6b4869330/Screenshot%202025-11-29%20184052.png)
+
+![DB QueryPilot AI – SQL query input and generation section](https://github.com/Kartik-324/DB-QueryPilot-AI/blob/8dae629a28dd1bce59bec257b9c654b6b4869330/Screenshot%202025-11-29%20130139.png)
+
+![DB QueryPilot AI – Generated SQL query result preview](https://github.com/Kartik-324/DB-QueryPilot-AI/blob/8dae629a28dd1bce59bec257b9c654b6b4869330/Screenshot%202025-11-29%20130802.png)
+
+![DB QueryPilot AI – Query execution and response UI](https://github.com/Kartik-324/DB-QueryPilot-AI/blob/8dae629a28dd1bce59bec257b9c654b6b4869330/Screenshot%202025-11-29%20130820.png)
+
+![DB QueryPilot AI – Results table and action buttons interface](https://github.com/Kartik-324/DB-QueryPilot-AI/blob/8dae629a28dd1bce59bec257b9c654b6b4869330/Screenshot%202025-11-29%20131014.png)
+
+![DB QueryPilot AI – Final output preview and controls section](https://github.com/Kartik-324/DB-QueryPilot-AI/blob/8dae629a28dd1bce59bec257b9c654b6b4869330/Screenshot%202025-11-29%20131319.png)
+
+
 ---
 
 ## ✨ Features
